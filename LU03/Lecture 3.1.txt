@@ -1,0 +1,13 @@
+﻿Lecture 3.1
+* Multi media - any format (audio, picture, video, etc)
+* Ai generated multi media is media made by ai
+* Text-to-speech - converting writen text to a natural sounding speech
+* voice cloning - ai uses an audio sample to make text-to-speech
+* Text-to-video - prompting ai to make a video based off the prompt
+* Image-to-video - inputting a photo to have ai make a video from that photo
+* Audio - you’ll have to tell ai how to speak (professional or not, pace, volume)
+* Video - start with a simple prompt, maybe use a reference photo, use sinamattic terms, specify everything like shadows, lighting, focal point
+* Speech - uses pauses from commas and periods
+* luvvoice is free to use and works okay
+* fakeyou you can choose a famous voice. be careful it is copyright
+* footage creates videos
