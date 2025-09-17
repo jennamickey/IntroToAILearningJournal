@@ -1,0 +1,9 @@
+﻿* ~Vibe coding - not actually knowing how to code, just using ai to do it for you
+* ~10x developers - one person using ai to make 10x as complicated code that takes 10x as many people
+* ~dont use ai to avoid thinking, it’ll backfire on you
+* ~You need to test what ai give you and edit it to make it work
+* ~ai might hallucinate while writing the code and make up information
+* ~ai is only good at coding when it already has the project in its data
+* ~ai is outdated at might not have the up-to-date version of what you want
+* ~very expensive
+* ~You have to pay for the mistakes too

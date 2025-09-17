@@ -1,0 +1,10 @@
+﻿* ~The term “bug” in programming came from a literal bug in the computer
+* ~a bug means that the program is broken and doesn’t work the way you intend
+* ~AI can debug a code by just telling you what needs to be fixed. it could be completely wrong but if you ask for ideas on what to do differently, it will be more useful.
+* ~AI is very lazy so it won't be as useful if you don’t pay for it
+* ~AI might “fix” the problem by disabling the issue or taking it out of the program
+* ~Ai might hallucinate and make up the info
+* ~AI is good at fixing syntax errors but it’s unnecessary
+* ~AI is good at fixing logic errors and that’s a good way to figure out the problem but it might set you on the wrong path
+* ~AI can suggest what technology to use and how to use it
+* ~it’s good at creating a framework or draft
