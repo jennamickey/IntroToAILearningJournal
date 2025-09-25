@@ -1,0 +1,4 @@
+﻿~Hypervisor
+-Type one/ BM- installed directly on top of the model, most secure
+-type two/ Hosted - layer of host os that sits between the host and the hypervisor
+~after they are installed, you can put VM’s in it, they are independent

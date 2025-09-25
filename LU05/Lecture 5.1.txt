@@ -1,0 +1,16 @@
+﻿~There are glasses that display a screen that only the person wearing the glasses can see
+~Hardware is the physical this that runs the computer
+-motherboard - connects the contents
+-CPU - small, does the thinking/computing
+-everything that “thinks" is connected here
+-Power supply - powers anything
+-RAM (Random Access Memories) - volatile - clears when you shut off your computer
+-Storage
+-GPU
+-does small tasks at the same time, quick, good at using ai
+~Servers - just a computer but better ad no screen
+~raspberry pi - runs on ARM
+
+
+mkdir my_web_server
+cd my_web_server
