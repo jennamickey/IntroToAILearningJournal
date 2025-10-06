@@ -1,0 +1,3 @@
+﻿Template - tells how to format
+Temperature - ai picks one of the most likely words but not the most likely
+System Prompt - prompt that goes in front of the message. makes the prompt bigger

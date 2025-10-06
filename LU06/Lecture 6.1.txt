@@ -1,0 +1,5 @@
+﻿docker (container): 
+* runs software portably
+* it eliminates the need for the middle operator
+* runs on the same kernel
+* you would only need a new container to create a new software rather than needing a whole new virtual machine system
